@@ -41,6 +41,62 @@
 
 ---
 
+## 🛠️ Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,docker,vscode,linux,bash" />
+
+</p>
+
+---
+
+## 🤖 AI/ML & Python Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ChetanSahu30&theme=tokyonight&row=1&column=6" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSahu30&theme=tokyo-night" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ChetanSahu30&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ## 🌐 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/chetan-sahu-b8b077229/)
