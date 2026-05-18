@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=220&section=header&text=Chetan%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50"/>
 </p>
-<h1 align="center">Hi 👋, I'm Chetan</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;AI/ML+Enthusiast;Backend+Learner;Open+Source+Explorer&center=true&width=600&height=50&color=58A6FF&size=25">
 </p>
@@ -63,13 +62,25 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🎯 IPL Prediction | Machine Learning based IPL prediction system |
-| 🎵 AI Volume Controller | Hand gesture based volume controller using OpenCV |
-| 🚗 Ride Sharing Web | Web platform for ride sharing |
-| 😀 Face Detection | Real-time face detection using OpenCV |
+<p align="center">
+<a href="https://github.com/ChetanSahu30/IPL-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSahu30&repo=IPL-Prediction&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/ChetanSahu30/ai-volume-controller">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSahu30&repo=ai-volume-controller&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ChetanSahu30/Ride_Sharing_Web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSahu30&repo=Ride_Sharing_Web&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ChetanSahu30/faceDetection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSahu30&repo=faceDetection&theme=tokyonight" />
+</a>
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
