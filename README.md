@@ -21,12 +21,6 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,git,github,mysql" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -99,5 +93,16 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/chetan-sahu-b8b077229/)
-- LeetCode: https://codolio.com/profile/ChetanSahu
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chetan-sahu-b8b077229/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://codolio.com/profile/ChetanSahu" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="50" />
+</a>
+
+</p>
