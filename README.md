@@ -42,14 +42,13 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,docker,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,firebase,git,github,vscode,linux,bash,tensorflow,pytorch,opencv" />
 
 </p>
-
 ---
 
 ## 🤖 AI/ML & Python Libraries
@@ -76,10 +75,25 @@
 
 </p>
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🎯 IPL Prediction | Machine Learning based IPL prediction system |
+| 🎵 AI Volume Controller | Hand gesture based volume controller using OpenCV |
+| 🚗 Ride Sharing Web | Web platform for ride sharing |
+| 😀 Face Detection | Real-time face detection using OpenCV |
+
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+## 💭 Dev Quote
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </p>
 
 ## 🏆 GitHub Trophies
