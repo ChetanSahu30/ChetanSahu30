@@ -1,16 +1,11 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=220&section=header&text=Chetan%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50"/>
 </p>
 <h1 align="center">Hi 👋, I'm Chetan</h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;AI/ML+Enthusiast;Backend+Learner;Open+Source+Explorer&center=true&width=600&height=50&color=58A6FF&size=25">
 </p>
-
 <h3 align="center">Aspiring Software Engineer | DSA Learner | AI/ML Enthusiast</h3>
-
----
 
 ## 🚀 About Me
 
@@ -34,8 +29,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanSahu30&theme=tokyonight" />
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -43,7 +36,6 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,firebase,git,github,vscode,linux,bash,tensorflow,pytorch,opencv" />
 
 </p>
----
 
 ## 🤖 AI/ML & Python Libraries
 
