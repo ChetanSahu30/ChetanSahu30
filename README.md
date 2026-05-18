@@ -1,9 +1,3 @@
-👨‍💻 I’m currently working on Data Structures & Algorithms and improving my coding skills
-🤝 I’m looking to collaborate on beginner-friendly open source projects
-🆘 I’m looking for help with system design and problem solving
-🌱 I’m currently learning Java, DSA, and backend basics
-💬 Ask me about coding, college life, and tech learning
-⚡ Fun fact: I enjoy solving problems and learning new tech every day
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=220&section=header&text=Chetan%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50"/>
