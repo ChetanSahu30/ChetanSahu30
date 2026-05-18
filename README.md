@@ -20,15 +20,16 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Java + DSA
-- 💻 Interested in Full Stack Development
-- 🤖 Exploring AI/ML
-- 🎯 Goal: Become a Software Engineer
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+- 👨‍💻 Working on **Data Structures & Algorithms**
+- 🌱 Learning **Java, Backend & AI/ML**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 💡 Interested in **Software Engineering & Problem Solving**
+- ⚡ Love building projects and learning new technologies
+- 🎯 Goal: Become a skilled Software Engineer
 
----
-
+<br>
 ## 📊 GitHub Stats
 
 <p align="center">
