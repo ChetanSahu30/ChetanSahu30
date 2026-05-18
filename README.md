@@ -91,13 +91,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSahu30&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSahu30&theme=tokyo-night&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ChetanSahu30&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
