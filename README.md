@@ -10,6 +10,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;AI/ML+Enthusiast;Backend+Learner;Open+Source+Explorer&center=true&width=600&height=50&color=58A6FF&size=25">
+</p>
+
 <h3 align="center">Aspiring Software Engineer | DSA Learner | AI/ML Enthusiast</h3>
 
 ---
