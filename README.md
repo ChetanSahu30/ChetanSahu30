@@ -94,22 +94,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/chetan-sahu-b8b077229/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://codolio.com/profile/ChetanSahu" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="55" /></a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/ChetanSahu30" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="55" /></a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linktr.ee/chetansahu" target="_blank"><img src="https://img.icons8.com/fluency/96/linktree.png" height="55" /></a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="55" /></a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:your_email@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" height="55" /></a>
-
+<a href="https://www.linkedin.com/in/chetan-sahu-b8b077229/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codolio.com/profile/ChetanSahu" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ChetanSahu30" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linktr.ee/chetansahu" target="_blank"><img src="https://img.icons8.com/fluency/96/linktree.png" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:your_email@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" height="55"/></a>
 </p>
