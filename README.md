@@ -5,7 +5,9 @@
 💬 Ask me about coding, college life, and tech learning
 ⚡ Fun fact: I enjoy solving problems and learning new tech every day
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=220&section=header&text=Chetan%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50"/>
+</p>
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 
 <h3 align="center">Aspiring Software Engineer | DSA Learner | AI/ML Enthusiast</h3>
